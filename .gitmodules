@@ -1,0 +1,6 @@
+[submodule "GraphJigsaw"]
+	path = GraphJigsaw
+	url = https://github.com/mysee1989/GraphJigsaw.git
+[submodule "AniWho"]
+	path = AniWho
+	url = https://github.com/mgradyn/AniWho.git
