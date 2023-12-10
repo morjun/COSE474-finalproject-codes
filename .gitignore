@@ -1,4 +1,6 @@
-Dataset/*
+Dataset/animefaces
+Dataset/personai_*
+Dataset/*.zip
 submission/*
 .$Model structure.drawio.bkp
 .$Model structure.drawio.dtmp
